@@ -1,6 +1,14 @@
-# Muzak
+<p align="center">
+  <a href="https://muzak.dev"><img src="profile/logo.png" alt="Muzak" width="112"></a>
+</p>
 
-A type-safe web framework for Go, and the things around it.
+<h1 align="center">Muzak</h1>
+
+<p align="center">
+  <em>A type-safe web framework for Go, and the things around it.</em>
+</p>
+
+---
 
 A handler is an ordinary typed function. Its input type is the request, its
 return type is the response body, and both are checked when you compile rather
